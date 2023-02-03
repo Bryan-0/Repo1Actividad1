@@ -12,6 +12,6 @@ public class Guille {
 		System.out.println("Hola soy Guille");
 	}
 	public static void hobbies() {
-		System.out.println("Me gusta el baloncesto, el cine y la escalada");
+		System.out.println("Me gusta el baloncesto , el cine y la escalada ");
 	}
 }
