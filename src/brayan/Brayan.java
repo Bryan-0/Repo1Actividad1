@@ -12,10 +12,15 @@ public class Brayan {
 		System.out.println("2. Jugar Ping Pong");
 		System.out.println("3. Jugar videojuegos");
 	}
+	public static void Comidas () {
+		System.out.println("Sopa, Pasta y Pizza");
+
+	}
 
 	public static void main(String[] args) {
 		presentarse();
 		hobbies();
+		Comidas();
 	}
 
 }
