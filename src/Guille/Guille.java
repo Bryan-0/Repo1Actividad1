@@ -5,6 +5,7 @@ public class Guille {
 	public static void main(String[] args) {
 		presentacion();
 		hobbies();
+		comida();
 	}
 
 	public static void presentacion() {
@@ -13,5 +14,9 @@ public class Guille {
 	}
 	public static void hobbies() {
 		System.out.println("Me gusta el baloncesto , el cine y la escalada ");
+	}
+	
+	public static void comida() {
+		System.out.println("Mis comidas favoritas son: hamburguesas , papas fritas y sushi");
 	}
 }
