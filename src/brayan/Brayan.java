@@ -13,9 +13,16 @@ public class Brayan {
 		System.out.println("3. Jugar videojuegos");
 	}
 
+	public static void comidasFavoritas() {
+		System.out.println("1. Baleadas");
+		System.out.println("2. Pollo con Tajadas");
+		System.out.println("3. Pizza");
+	}
+
 	public static void main(String[] args) {
 		presentarse();
 		hobbies();
+		comidasFavoritas();
 	}
 
 }
